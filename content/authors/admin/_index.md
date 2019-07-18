@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Pediatrics
+role: Associate Professor of Pediatrics and Nutrition
 
 # Organizations/Affiliations
 organizations:
 - name: Cincinnati Children’s Hospital Medical Center
-  url: ""
+  url: "https://www.cincinnatichildrens.org/"
+- name: University of Cincinnati
+  url: "https://www.med.uc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -29,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Behavioral Nutrition
+  - course: PhD in Nutritional Epidemiology
     institution: Columbia University
     year: 2009
   - course: MS in Human Nutrition
@@ -72,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nicholas Ollberding is a quantitative epidemiologist with applied research interests investigating the role of diet in the etiology and progression of chronic disease and the role of the developing infant intestinal microbiome on growth and early development. Areas of methodical research interest include the development and application of analytical methods for microbial metagenomic next-generation sequence data and dietary assessment and analysis methodology. He also collaborates broadly as a quantitative methodologist and statistician in the area of health sciences research.
-
-Dr. Ollberding is co-investigator and lead statistician on NIH grants focused on the role of the human milk prebiotics in pediatric inflammatory bowel disease and the impact of weight loss surgery versus comprehensive lifestyle intervention as a treatment for nonalcoholic steatohepatitis in severely obese adolescents, among others. He also serves as co-investigator on a NIH U01 focused on identifying genetic correlates of human congenital heart disease and leads the Biostatistics Core of the Heart Institute Research Core at Cincinnati Children’s Hospital Medical Center. Dr. Ollberding has served on the steering committee for the Nutritional Epidemiology Research Interest Section of the American Society for Nutrition and as First Editor for the journal Public Health Nutrition.  
+Nicholas Ollberding is a quantitative epidemiologist with applied research interests investigating the role of diet in the etiology and progression of chronic disease and the role of the developing infant intestinal microbiome on growth and early development. Areas of methodical research interest include the development and application of analytical methods for microbial metagenomic next-generation sequence data and dietary assessment and analysis methodology. He also collaborates broadly as a quantitative methodologist and statistician in the area of health sciences research and leads the Biostatistics Core of the Heart Institute Research Core at Cincinnati Children’s Hospital Medical Center.
