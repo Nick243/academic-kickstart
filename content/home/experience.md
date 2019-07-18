@@ -27,7 +27,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  """
 
 [[experience]]
   title = "Associate Professor of Pediatrics"
@@ -39,7 +38,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  """
 
 [[experience]]
   title = "Associate Professor of Nutrition"
@@ -50,7 +48,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  """
 
 [[experience]]
   title = "Assistant Professor of Pediatrics"
@@ -62,7 +59,6 @@ date_format = "Jan 2006"
   date_end = "2018"
   description = """
 
-  """
 
 [[experience]]
   title = "Assistant Professor of Nutrition"
@@ -73,7 +69,6 @@ date_format = "Jan 2006"
   date_end = "2018"
   description = """
 
-  """
 
 [[experience]]
   title = "Postdoctoral Scholar"
@@ -84,7 +79,6 @@ date_format = "Jan 2006"
   date_end = "2013"
   description = """
 
-  """
 
 [[experience]]
   title = "Postdoctoral Research Fellow "
