@@ -32,48 +32,9 @@ date_format = "Jan 2006"
   company = "University of Cincinnati"
   company_url = ""
   location = "Ohio"
-  date_start = "Jan 2018"
+  date_start = "Oct 2018"
   date_end = ""
   description = """
 
-
-[[experience]]
-  title = "Assistant Professor of Pediatrics"
-  company = "Division of Biostatistics and Epidemiology, Children’s Hospital Medical Center"
-  company_url = ""
-  location = "Ohio"
-  date_start = "Jan 2013"
-  date_end = "Jan 2018"
-  description = """
-
-
-[[experience]]
-  title = "Assistant Professor of Nutrition"
-  company = "University of Cincinnati"
-  company_url = ""
-  location = "Ohio"
-  date_start = "Jan 2014"
-  date_end = "Jan 2018"
-  description = """
-
-
-[[experience]]
-  title = "Postdoctoral Scholar"
-  company = "University of Chicago"
-  company_url = ""
-  location = "Illinois "
-  date_start = "Jan 2012"
-  date_end = "Jan 2013"
-  description = """
-
-
-[[experience]]
-  title = "Postdoctoral Research Fellow "
-  company = "University of Hawaii Cancer Center"
-  company_url = ""
-  location = "Hawaii"
-  date_start = "Jan 2009"
-  date_end = "Jan 2011"
-  description = """
 
 +++
