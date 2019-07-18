@@ -18,27 +18,81 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Associate Professor of Pediatrics"
+  company = "Division of Biostatistics and Epidemiology
+  Children’s Hospital Medical Center"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Ohio"
+  date_start = "2018"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Associate Professor of Pediatrics"
+  company = "Division of Biostatistics and Epidemiology
+  Children’s Hospital Medical Center"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ohio"
+  date_start = "2018"
+  date_end = ""
+  description = """
+
+  """
+
+[[experience]]
+  title = "Associate Professor of Nutrition"
+  company = "University of Cincinnati"
+  company_url = ""
+  location = "Ohio"
+  date_start = "2018"
+  date_end = ""
+  description = """
+
+  """
+
+[[experience]]
+  title = "Assistant Professor of Pediatrics"
+  company = "Division of Biostatistics and Epidemiology
+  Children’s Hospital Medical Center"
+  company_url = ""
+  location = "Ohio"
+  date_start = "2013"
+  date_end = "2018"
+  description = """
+
+  """
+
+[[experience]]
+  title = "Assistant Professor of Nutrition"
+  company = "University of Cincinnati"
+  company_url = ""
+  location = "Ohio"
+  date_start = "2014"
+  date_end = "2018"
+  description = """
+
+  """
+
+[[experience]]
+  title = "Postdoctoral Scholar"
+  company = "University of Chicago"
+  company_url = ""
+  location = "Illinois "
+  date_start = "2012"
+  date_end = "2013"
+  description = """
+
+  """
+
+[[experience]]
+  title = "Postdoctoral Research Fellow "
+  company = "University of Hawaii Cancer Center"
+  company_url = ""
+  location = "Hawaii"
+  date_start = "2009"
+  date_end = "2011"
+  description = """
 
 +++
